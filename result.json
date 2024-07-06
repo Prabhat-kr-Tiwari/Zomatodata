@@ -1,0 +1,59 @@
+{
+    "data": [
+        {
+            "id": "6685462a667087567116fff0",
+            "userid": "utkarsh.dubey@gaadin.com",
+            "rfid": "3227075357",
+            "registerat": "2024-07-03T12:38:01Z",
+            "currency": "INR",
+            "amount_based": true,
+            "amount_recharge": 100,
+            "amount": 99.95,
+            "free_charging": false,
+            "amount_transactions": [
+                {
+                    "amount": 100,
+                    "date": "2024-07-03T12:38:13Z",
+                    "status": "Credit"
+                },
+                {
+                    "amount": 100,
+                    "date": "2024-07-03T12:38:17Z",
+                    "status": "Credit"
+                },
+                {
+                    "amount": 0,
+                    "date": "2024-07-03T12:43:19Z",
+                    "status": "Debit"
+                },
+                {
+                    "amount": 0.05,
+                    "date": "2024-07-05T07:14:23Z",
+                    "status": "Debit"
+                }
+            ],
+            "kwh_based": false,
+            "kwh_recharge": 0,
+            "kwh": 0,
+            "kwh_amount": 0,
+            "kwh_transactions": [],
+            "time_based": false,
+            "time_recharge": 0,
+            "time": 0,
+            "time_amount": 0,
+            "time_transactions": [],
+            "station": "All",
+            "rfid_type": "prepaid",
+            "rfid_duration": "",
+            "rfid_startdate": "",
+            "rfid_enddate": "",
+            "rfid_payment_status": true,
+            "card": true,
+            "wallet": false,
+            "offline_payment": false
+        }
+    ],
+    "statuscode": 200,
+    "result": "Success!!",
+    "error": ""
+}
